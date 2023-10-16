@@ -1,5 +1,5 @@
 ---
-title: Welcome to
+title: Welcome to NANDS!
 thumbnail:
     url: /img/NANDS.png
     author: Harris Vo
