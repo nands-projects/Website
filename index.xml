@@ -1,10 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Welcome to Hinode! on My New Hugo Site</title>
-    <link>https://nands-projects.github.io/nands-projects_site/</link>
-    <description>Recent content in Welcome to Hinode! on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nands-projects.github.io/nands-projects_site/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to on NANDS</title><link>https://example.com/</link><description>Recent content in Welcome to on NANDS</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copyright © 2023 Mark Dumay.</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Smart home-water filter</title><link>https://example.com/projects/smart_drink_water_filter/</link><pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/projects/smart_drink_water_filter/</guid><description>Introduction Coming soon . . .</description></item><item><title>New website</title><link>https://example.com/blog/new_website/</link><pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate><guid>https://example.com/blog/new_website/</guid><description>Welcome to the NANDS projects website!</description></item><item><title>About</title><link>https://example.com/about_us/</link><pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate><guid>https://example.com/about_us/</guid><description>Bootstrap framework
+Build fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files.
+Full text search</description></item><item><title>Sample project</title><link>https://example.com/projects/sample-project/</link><pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate><guid>https://example.com/projects/sample-project/</guid><description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description></item></channel></rss>
