@@ -1,5 +1,0 @@
-baseURL = 'https://nands-projects.github.io/nands-projects_site/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-[[module.imports]]
-path = 'github.com/gethinode/hinode'

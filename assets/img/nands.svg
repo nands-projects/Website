@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1224"
+   height="688"
+   viewBox="0 0 323.85 182.03334"
+   version="1.1"
+   id="svg1065"
+   sodipodi:docname="nands.svg"
+   inkscape:export-filename="/home/salvatore/git/Hinode_Test/assets/img/NANDS.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1067"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-nodes="true"
+     inkscape:zoom="0.28423163"
+     inkscape:cx="103.78859"
+     inkscape:cy="904.1921"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px"
+     width="12px" />
+  <defs
+     id="defs1062">
+    <rect
+       x="336.03824"
+       y="-441.34619"
+       width="1065.7347"
+       height="904.35242"
+       id="rect67160" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background"
+     transform="translate(-73.334625,36.394505)">
+    <rect
+       style="fill:#0da574;fill-opacity:1;stroke-width:1.64585"
+       id="rect4097"
+       width="323.85001"
+       height="182.03334"
+       x="73.334625"
+       y="-36.394505"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:53.8687px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.34672"
+       x="165.40118"
+       y="74.23111"
+       id="text74805"><tspan
+         sodipodi:role="line"
+         id="tspan74803"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1.34672"
+         x="165.40118"
+         y="74.23111">NANDS</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-73.334625,36.394505)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,64.530037,55.117493)"
+       id="text67158"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect67160);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g74317"
+       transform="matrix(13.248566,0,0,13.248566,88.232972,17.360571)">
+      <g
+         id="layer2-9"
+         inkscape:label="background"
+         transform="translate(-65.417603,-60.250984)">
+        <rect
+           style="fill:#0da574;fill-opacity:1;stroke-width:0.0381293"
+           id="rect4097-7"
+           width="5.625"
+           height="5.625"
+           x="65.417603"
+           y="60.250984"
+           ry="0.63316077" />
+      </g>
+      <g
+         inkscape:label="Layer 1"
+         id="layer1-5"
+         transform="translate(-65.417603,-60.250984)">
+        <g
+           id="g7977"
+           transform="matrix(0.125,0,0,0.125,56.595585,50.962853)">
+          <path
+             style="color:#000000;fill:#0e2431;fill-opacity:1;stroke-width:0.590019"
+             d="m 130.24245,142.9543 a 0.2002354,0.27384167 0 0 0 -0.20003,0.27357 0.2002354,0.27384167 0 0 0 0.20003,0.27358 h 1.07312 a 0.2002354,0.27384167 0 0 0 0.20003,-0.27358 0.2002354,0.27384167 0 0 0 -0.20003,-0.27357 z"
+             fill="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path795"
+             transform="matrix(7.2374554,0,0,7.2374554,-837.56968,-939.80513)" />
+          <path
+             style="color:#000000;fill:#0e2431;fill-opacity:1;stroke-width:0.590019"
+             d="m 125.8593,141.95704 a 0.2002354,0.27384167 0 0 0 -0.20003,0.27357 0.2002354,0.27384167 0 0 0 0.20003,0.27357 h 1.07312 a 0.2002354,0.27384167 0 0 0 0.20003,-0.27357 0.2002354,0.27384167 0 0 0 -0.20003,-0.27357 z"
+             fill="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path795-3"
+             transform="matrix(7.2374554,0,0,7.2374554,-837.56968,-939.80513)" />
+          <path
+             style="color:#000000;fill:#0e2431;fill-opacity:1;stroke-width:0.590019"
+             d="m 125.8593,143.95156 a 0.2002354,0.27384167 0 0 0 -0.20004,0.27357 0.2002354,0.27384167 0 0 0 0.20004,0.27357 h 1.07311 a 0.2002354,0.27384167 0 0 0 0.20004,-0.27357 0.2002354,0.27384167 0 0 0 -0.20004,-0.27357 z"
+             fill="#000000"
+             stroke-linecap="round"
+             stroke-linejoin="round"
+             id="path795-3-6"
+             transform="matrix(7.2374554,0,0,7.2374554,-837.56968,-939.80513)" />
+          <g
+             transform="matrix(7.2374553,0,0,7.2374553,-837.56967,-939.80514)"
+             id="g801">
+            <path
+               style="color:#000000;fill:#ffd717;fill-opacity:1;stroke-width:0.689994"
+               d="m 127.18811,140.95709 c -0.32961,0 -0.6024,0.27279 -0.6024,0.6024 v 3.33677 c 0,0.32961 0.27279,0.60374 0.6024,0.60374 h 1.13067 c 1.25097,0 2.27213,-1.02101 2.27213,-2.27213 0,-1.25111 -1.02101,-2.27078 -2.27213,-2.27078 z m 0,0.54714 h 1.13067 c 0.95512,0 1.72364,0.76852 1.72364,1.72364 0,0.95514 -0.76871,1.72364 -1.72364,1.72364 h -1.13067 c -0.0336,0 -0.0553,-0.0217 -0.0553,-0.0553 v -3.33677 c 0,-0.0336 0.0217,-0.0553 0.0553,-0.0553 z"
+               fill="#000000"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               id="path793" />
+            <path
+               style="color:#000000;fill:#0e2431;fill-opacity:1;stroke-width:0.586398"
+               d="m 127.39814,141.29779 c -0.28017,0 -0.51204,0.23179 -0.51204,0.51187 v 2.83532 c 0,0.28008 0.23187,0.51301 0.51204,0.51301 h 0.96107 c 1.06332,0 1.93131,-0.86757 1.93131,-1.93068 0,-1.06309 -0.86786,-1.92952 -1.93131,-1.92952 z m 0,0.46491 h 0.96107 c 0.81185,0 1.46509,0.65303 1.46509,1.46461 0,0.81161 -0.6534,1.46462 -1.46509,1.46462 h -0.96107 c -0.0286,0 -0.047,-0.0184 -0.047,-0.047 v -2.83532 c 0,-0.0286 0.0184,-0.047 0.047,-0.047 z"
+               fill="#000000"
+               stroke-linecap="round"
+               stroke-linejoin="round"
+               id="path793-9" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
