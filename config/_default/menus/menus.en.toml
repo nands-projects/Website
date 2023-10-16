@@ -1,9 +1,4 @@
 [[main]]
-  name = "Home"
-  pageRef = "/"
-  weight = 10
-
-[[main]]
   name = "Blog"
   pageRef = "/blog"
   weight = 20
@@ -14,8 +9,8 @@
   weight = 20
 
 [[main]]
-  name = "About Us"
-  pageRef = "/about_us"
+  name = "About"
+  pageRef = "/about"
   weight = 20
 
 # [[social]]

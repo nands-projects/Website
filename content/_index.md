@@ -10,4 +10,4 @@ thumbnail:
 
 A blog and collection of projects by NANDS.
 
-{{< button href="about" icon="fas book-open" order="first" >}}About us{{< /button>}}
+{{< button href="about" icon="fas book-open" order="first" >}}About{{< /button>}}

@@ -1,4 +1,5 @@
 ---
 author: Salvatore Torsello
-title: Projects
+title: Blog
+nested: true
 ---
